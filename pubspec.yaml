@@ -1,0 +1,10 @@
+name: ld33
+version: 0.0.1
+description: Build a game in 48 hours... rip
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: '>=0.10.0 <0.11.0'
+  vector_math: any
+  game_loop: any
+  stagexl: any
